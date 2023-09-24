@@ -18,7 +18,7 @@ public class Password {
 
 	@Version
 	@Column(name = "VERSION")
-	private int version;
+	private int version; 
 
 	@Column(name = "PASWORD")
 	private String pasword;
